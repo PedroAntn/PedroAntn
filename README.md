@@ -1,50 +1,44 @@
 # Hi, I'm Pedro 👋
 
-### Aspiring Cloud Security Engineer · Focused on AWS & Cloud-native defense
+**Computer Science student building toward a career in Cloud Security Operations (SOC).**
 
-I'm a Computer Science student building toward a career in **cloud security**, with a focus on securing cloud infrastructure, automating security checks, and applying defense-in-depth principles to real-world environments. I document everything I build and learn here.
-
-> Currently leveling up toward AWS Security and aiming to work in the European cloud security market.
+I focus on the defensive side of security — monitoring, alert triage, log analysis, and incident response in cloud environments. This profile is where I document what I learn and build as I work toward a junior Cloud SOC role in the European market.
 
 ---
 
-### 🛡️ What I work on
+### 🎯 Focus
 
-- **Cloud security automation** — Python tooling to detect misconfigurations in AWS (IAM, S3, networking)
-- **Linux & infrastructure hardening** — automating CIS Benchmark compliance and secure server baselines
-- **Infrastructure as Code** — Terraform with security controls built in from the start
-- **Networking foundations** — TCP/IP, DNS, and how attacks actually move through a network
+- **Security Operations** — alert triage, event correlation, true/false-positive analysis, incident response
+- **SIEM & detection** — learning the Microsoft security stack (Sentinel, KQL) on the SC-200 path
+- **Networking & infrastructure** — the foundation behind how attacks move and how cloud environments are defended
 
----
+### 🧰 Working with
 
-### 🚀 Featured projects
-
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| [**aws-iam-auditor**](https://github.com/PedroAntn/aws-iam-auditor) | Scans an AWS account for over-privileged users, missing MFA, and stale access keys | `Python` `boto3` `IAM` | ✅ Live |
-| [**linux-hardening-tool**](https://github.com/PedroAntn/linux-hardening-tool) | Audits Ubuntu against 24 CIS Benchmark Level 1 controls and safely remediates findings — took a test system from **61% to 100%** compliance | `Python` `Linux` `CIS Benchmark` | ✅ Live |
-| [**s3-bucket-scanner**](https://github.com/PedroAntn/s3-bucket-scanner) | Detects publicly exposed S3 buckets and risky ACLs, outputs a clean report | `Python` `AWS S3` | 🚧 In progress |
-| [**secure-aws-baseline**](https://github.com/PedroAntn/secure-aws-baseline) | Terraform baseline with secure VPC, CloudTrail, and GuardDuty enabled by default | `Terraform` `IaC` `DevSecOps` | 🚧 In progress |
-
----
-
-### 🧰 Tech & tools
-
-🐍 Python · ☁️ AWS · 🟣 Terraform · 🐧 Linux · 💻 Bash · 🔶 Git
-
----
+`Splunk` · `Google Chronicle` · `Wireshark` · `Microsoft Sentinel (learning)` · `KQL (learning)` · `Linux` · `Windows` · `Python (scripting)` · `NIST` · `MITRE ATT&CK`
 
 ### 📜 Certifications
 
-- 🎯 **In progress:** CompTIA Security+
-- 🎯 **Next:** AWS Cloud Practitioner → AWS Solutions Architect Associate → AWS Security Specialty
+- ✅ Google Cybersecurity Professional Certificate (2025)
+- 🔄 CompTIA Security+ (in progress)
+- 🎯 Microsoft SC-200 → AZ-900 (planned)
 
 ---
 
-### 📫 Let's connect
+### 📂 Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrooliveirasec)
+| Project | What it is | Status |
+|---|---|---|
+| [aws-iam-auditor](https://github.com/PedroAntn/aws-iam-auditor) | Python/boto3 tool auditing AWS IAM for over-privileged users, missing MFA, and stale access keys | ✅ Live |
+| soc-investigation-writeups | Documented analyses of Let's Defend investigations — triage, correlation, MITRE ATT&CK mapping | 🚧 In progress |
+| sentinel-detection-lab | Hands-on SIEM lab on Azure free tier, building and tuning KQL detection rules | 🚧 Planned |
+| cloud-ir-playbooks | Structured incident-response runbooks for common cloud scenarios | 🚧 Planned |
 
 ---
 
-<sub>Open to junior cloud security and security engineering roles · Available for relocation 🇪🇺 🇺🇸</sub>
+### 🌐 Languages
+
+Portuguese (native) · English (professional working proficiency) · Spanish (professional working proficiency)
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/pedrooliveirasec)
