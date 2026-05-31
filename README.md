@@ -29,9 +29,9 @@ I focus on the defensive side of security — monitoring, alert triage, log anal
 | Project | What it is | Status |
 |---|---|---|
 | [aws-iam-auditor](https://github.com/PedroAntn/aws-iam-auditor) | Python/boto3 tool auditing AWS IAM for over-privileged users, missing MFA, and stale access keys | ✅ Live |
-| soc-investigation-writeups | Documented analyses of Let's Defend investigations — triage, correlation, MITRE ATT&CK mapping | 🚧 In progress |
-| sentinel-detection-lab | Hands-on SIEM lab on Azure free tier, building and tuning KQL detection rules | 🚧 Planned |
-| cloud-ir-playbooks | Structured incident-response runbooks for common cloud scenarios | 🚧 Planned |
+| soc-investigation-writeups | Documented analyses of Let's Defend investigations — triage, correlation, MITRE ATT&CK mapping |✅ Live  |
+| sentinel-detection-lab | Hands-on SIEM lab on Azure free tier, building and tuning KQL detection rules | ✅ Live |
+| cloud-ir-playbooks | Structured incident-response runbooks for common cloud scenarios | ✅ Live |
 
 ---
 
